@@ -12,7 +12,6 @@ Overall, Obscure Animal Facts not only demonstrates my technical skills in using
 
 - **Responsive Design**: Optimized for both desktop and mobile devices.
 - **Blog Posts**: Articles featuring interesting and obscure facts about different animals.
-- **High-Quality Media**: Use of images and videos from Wix gallery and Pexels to enhance the visual appeal of the posts.
 - **Search Functionality**: Allows users to search for specific topics or animals.
 - **User-Friendly Navigation**: Easy-to-navigate interface for an enhanced user experience.
 - **Social Media Integration**: Share buttons to promote content on various social media platforms.
